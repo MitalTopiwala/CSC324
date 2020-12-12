@@ -20,7 +20,7 @@ Please see the assignment guidelines at
 
 
 ;-----------------------------------------------------------------------------------------
-; Main functions (skeleton provided in starter code)
+; Main functions 
 ;-----------------------------------------------------------------------------------------
 #|
 (run-interpreter prog) -> any
@@ -169,8 +169,6 @@ Please see the assignment guidelines at
    '< <
    'integer? integer?
    'boolean? boolean?
-   ; Note: You'll almost certainly need to replace procedure? here to properly return #t
-   ; when given your closure data structure at the end of Task 1!
    'procedure? procedure?
    ))
 
